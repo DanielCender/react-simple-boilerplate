@@ -1,3 +1,14 @@
+# Simple React
+
+---
+
+![dependencies](https://img.shields.io/hackage-deps/v/lens.svg)
+![]()
+![]()
+![]()
+
+---
+
 ## This project was bootstrapped with Create-React-App from Facebook
 
 ### A simple React Boilerplate using:
