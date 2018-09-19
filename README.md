@@ -3,7 +3,7 @@
 ---
 
 ![dependencies](https://img.shields.io/hackage-deps/v/lens.svg)
-![]()
+![build](https://img.shields.io/badge/build-passing-brightgreen.svg)
 ![]()
 ![]()
 
