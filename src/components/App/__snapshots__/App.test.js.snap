@@ -15,7 +15,7 @@ exports[`renders without crashing 1`] = `
     <h1
       className="App-title"
     >
-      Todo App Boilerplate Example
+      Simple React App Boilerplate Example
     </h1>
   </header>
   <p
@@ -23,9 +23,9 @@ exports[`renders without crashing 1`] = `
   >
     To get started, edit 
     <code>
-      src/App.js
+      src/components/App/App.js
     </code>
-     and save to reload.
+     and save to hot reload your stuff.
   </p>
 </div>
 `;
